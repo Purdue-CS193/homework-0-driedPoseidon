@@ -3,16 +3,18 @@
 # Victor Blecharz's first CS193 Homework
 
 - I like that the class is loose and easy going
-- And that it goes over fundamental's 
+- And that it goes over fundamental's
+- Please work
+  
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```markdownmarkdown
 Syntax highlighted code block
 
-# Victor Blecharz's first CS193 Homework 
+# Header 1
 ## Header 2
 ### Header 3
 
